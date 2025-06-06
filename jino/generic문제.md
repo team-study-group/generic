@@ -1,3 +1,5 @@
+**gemini 문제 생성**
+
 *Pair 클래스 만들기*
 ***
 ```
@@ -217,3 +219,6 @@ public class Problem5 {
     }
 }
 ```
+
+
+https://gemini.google.com/app/2f09178fdc208fa1?utm_source=chrome_omnibox&utm_medium=owned&utm_campaign=gemini_shortcut
