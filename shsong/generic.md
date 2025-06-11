@@ -48,7 +48,7 @@
 3. Bridge 메서드
    - 컴파일러는 확장된 제네릭 타입에 대해 타입소거를 해도 다형성을 보존하기 위해 별도의 bridge 베서드를 생성한다.
    - 아래 코드에서 ClassCast 예외가 발생하는 이유가 Bridge Method가 생성되기 때문.
-
+'''
 class Generic<E> {
     public E element;
 
@@ -81,6 +81,9 @@ class GenericTest {
         parent.setElement("hello");
     }
 }
+'''
+
+
 
 ## 💡 느낀 점
 
